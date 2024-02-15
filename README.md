@@ -1,5 +1,11 @@
+<h1>
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+</h1>
+
+
 # 💫 About Me:
- 🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning MERN Stack and Data Structures & Algorithm<br><br>👯 I’m looking to collaborate on Open Source Project<br><br>💬 Ask me about React.js and Next.js<br><br>📫 How to reach me pratikprabhu23.pp@gmail.com
+ 🔭 I’m currently working on Full Stack Development<br><img align="right" alt="Coding" width="400" src="https://img.static-rmg.be/a/view/q75/w/h/2258915/jim-carrey-gif.gif"><br>🌱 I’m currently learning MERN Stack and Data Structures & Algorithm<br><br>👯 I’m looking to collaborate on Open Source Project<br> <br>💬 Ask me about React.js and Next.js<br><br>📫 How to reach me pratikprabhu23.pp@gmail.com
+ 
 
 
 ## 🌐 Socials:
@@ -12,8 +18,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikprabhu&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikprabhu&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratikprabhu&icon=5&color=9)](https://visitcount.itsvg.in)
